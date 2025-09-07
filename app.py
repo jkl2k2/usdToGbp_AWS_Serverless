@@ -15,3 +15,4 @@ def index():
 if __name__ == '__main__':
     # For local development. Amplify will use its own server.
     run(host='localhost', port=8080, debug=True)
+
